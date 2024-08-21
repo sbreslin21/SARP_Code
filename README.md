@@ -2,7 +2,6 @@
 Investigating Methane and Ethane Emissions in the Long Beach Area
 -----------------------------------------------------------------------------------------------------------------------------------
 Abstract:
-
 As climate change continues to worsen, the investigation and tracking of greenhouse gas emissions has become increasingly
 important. Methane, the second most impactful greenhouse gas, has accounted for over 20% of planetary warming since
 preindustrial times. Methane emissions primarily originate from biogenic and thermogenic sources, such as dairy farms and
@@ -19,7 +18,6 @@ provides a critical analysis on potential fugitive emission sources in the Long 
 perform in depth analyses on potential point sources of greenhouse gas emissions in the Long Beach area.
 -----------------------------------------------------------------------------------------------------------------------------------
 Special Thanks:
-
 Thank you Dr. Disha Sardana, Katie Paredero, and Dr. Don Blake for all their help throughout this project, they are truely inspirational
 -----------------------------------------------------------------------------------------------------------------------------------
 Any Questions please feel free to contact me at seanjb@udel.edu
